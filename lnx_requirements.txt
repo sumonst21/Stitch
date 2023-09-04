@@ -3,7 +3,7 @@ email==4.0.2
 logging==0.4.9.6
 pexpect==4.2.1
 pycrypto==2.6.1
-PyInstaller==3.2
+PyInstaller==3.6
 python-dateutil==2.5.3
 python-xlib==0.18
 pyudev==0.15
